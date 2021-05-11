@@ -27,6 +27,7 @@
 
 ! override Peter Lowe's filter
 ||adf.ly^$badfilter
+||facebook.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/729
 ! https://github.com/NanoMeow/QuickReports/issues/1636
